@@ -6,6 +6,8 @@
     "version": "1.0",
     "categories": ["commands"],
     "license": "MIT",
+    "repository": "https://github.com/PureBlend-Software/nova-remember-position",
+    "bugs": "https://github.com/PureBlend-Software/nova-remember-position/issues",
     "main": "main.js",
     "activationEvents": ["*"],
     "commands": {
