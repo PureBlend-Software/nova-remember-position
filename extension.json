@@ -1,0 +1,19 @@
+{
+    "identifier": "com.pureblendsoftware.rememberposition",
+    "name": "Remember Position",
+    "organization": "PureBlend Software",
+    "description": "Reopens each document scrolled to the cursor position it had the last time it was open.",
+    "version": "1.0",
+    "categories": ["commands"],
+    "license": "MIT",
+    "main": "main.js",
+    "activationEvents": ["*"],
+    "commands": {
+        "extensions": [
+            {
+                "title": "Remember Position: Clear Saved Positions",
+                "command": "rememberposition.clear"
+            }
+        ]
+    }
+}
