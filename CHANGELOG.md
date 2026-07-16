@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+Added an "as is" disclaimer to the extension description.
+
 ## 1.0
 
 Initial release. Reopens each document scrolled to the cursor position it had the
